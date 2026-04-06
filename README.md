@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a custom Discord bot for my private server. <br>- 📫 How to reach me: LinkedIn or email for professional inquiries. Discord for more friendly approaches. <br>- ⚡ Fun fact: I was born in Lima, Peru and just moved to the US. 
+- 🔭 I’m currently working on a custom Discord bot for my private server. <br> - 📫 How to reach me: LinkedIn or email for professional inquiries. Discord for more friendly approaches. <br> - ⚡ Fun fact: I was born in Lima, Peru and just moved to the US. 
 
 
 ## 🌐 Socials:
