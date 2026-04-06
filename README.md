@@ -1,19 +1,14 @@
-### Hi there 👋, my name is Luis
-#### I am game & web developer
-![I am game & web developer](https://raw.githubusercontent.com/weez97/weez97.github.io/refs/heads/main/images/pictures/banner.webp)
-
-I specialize in Unity development, mobile games, and gameplay systems, with professional experience developing slot games for the casino industry.
-
-Skills: UNITY 6 / C# / C++ / PYTHON / JS / HTML / CSS
-
-- 🔭 I’m currently working on a custom Discord bot for my private server. 
-- 📫 How to reach me: LinkedIn or email for professional inquiries. Discord for more friendly approaches. 
-- ⚡ Fun fact: I was born in Lima, Peru and just moved to the US. 
+# 💫 About Me:
+- 🔭 I’m currently working on a custom Discord bot for my private server. <br>- 📫 How to reach me: LinkedIn or email for professional inquiries. Discord for more friendly approaches. <br>- ⚡ Fun fact: I was born in Lima, Peru and just moved to the US. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/weez97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luispineda597/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lpinedak.com/)  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/354459054807973891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luispineda597) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luis.alonso97@outlook.com) 
 
-<!-- Dark mode -->
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg?color=white#gh-dark-mode-only" height="40"/>](https://discordapp.com/users/354459054807973891)
-<!-- Light mode -->
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg?color=black#gh-light-mode-only" height="40"/>](https://discordapp.com/users/354459054807973891)
+# 💻 Tech Stack:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=weez97&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
