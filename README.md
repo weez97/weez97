@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, my name is Luis
+#### I am game & web developer
+![I am game & web developer](https://raw.githubusercontent.com/weez97/weez97.github.io/refs/heads/main/images/pictures/banner.webp)
 
-<!--
-**weez97/weez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in Unity development, mobile games, and gameplay systems, with professional experience developing slot games for the casino industry.
 
-Here are some ideas to get you started:
+Skills: UNITY 6 / C# / C++ / PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a custom Discord bot for my private server. 
+- 📫 How to reach me: LinkedIn or email for professional inquiries. Discord for more friendly approaches. 
+- ⚡ Fun fact: I was born in Lima, Peru and just moved to the US. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/weez97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luispineda597/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lpinedak.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](354459054807973891)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weez97)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=weez97&show_icons=true)  
+
